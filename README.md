@@ -4,54 +4,89 @@
 
 # Привет, я pxdxx 👋
 
-Пишу под macOS и для сетевых утилит — от обхода блокировок до всякого системного low-level кода.
+Разработка ПО, скрипты и расширения для браузера — от веба до нативных инструментов.
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Swift+%26+macOS+dev;Networking+%26+bypass+tools;Always+shipping+something;&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Browser+Extensions+%26+Electron;HTML+%2F+CSS+%2F+JS+%2F+Swift+%2F+Python;Always+shipping+something;&font=Fira%20Code&center=true&width=480&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
 
-</div>
+<br/>
 
----
-
-### 🛠️ Стек
-
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твоя_почта@example.com)
 
 </div>
 
-### 📌 Что делаю
+<br/>
 
-- 🌐 Инструменты для обхода блокировок и сетевого доступа
-- 🍏 Нативные приложения под macOS
-- ⚡ Мелкие JS-утилиты и скрипты
-
-### 📊 GitHub статистика
+## 🛠️ Стек
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/pxdxx?style=for-the-badge&color=58A6FF&labelColor=1e2327)
-![Stars](https://img.shields.io/github/stars/pxdxx?style=for-the-badge&color=58A6FF&labelColor=1e2327)
-![Top language](https://img.shields.io/github/languages/top/pxdxx/pxdxx?style=for-the-badge&color=58A6FF&labelColor=1e2327)
+<img src="https://skillicons.dev/icons?i=html,css,js,swift,python,bash,git,postgres,electron,chrome&theme=dark" />
 
 </div>
 
-### 📫 Как связаться
+<br/>
+
+## 📌 Чем занимаюсь
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Разработка**
+- 💻 Разработка ПО и утилит
+- 🧩 Расширения для Chrome
+- ⚡ Приложения на Electron
+
+</td>
+<td width="50%" valign="top">
+
+**Стек в деле**
+- 🐍 Python — скрипты и автоматизация
+- 🐘 PostgreSQL — работа с данными
+- 🍎 Swift — нативные штуки под macOS
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub статистика
 
 <div align="center">
 
-<!-- Замени ссылки на свои -->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твоя_почта@example.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pxdxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxdxx&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=pxdxx&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br/>
+
+## 🏆 Трофеи
+
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=pxdxx&color=blue&style=flat)
+<img src="https://github-profile-trophy.vercel.app/?username=pxdxx&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+
+</div>
+
+<br/>
+
+## 📈 Активность
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxdxx&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=pxdxx&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
