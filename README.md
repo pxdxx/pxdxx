@@ -34,10 +34,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pxdxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxdxx&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com/?user=pxdxx&theme=tokyonight&hide_border=true"/>
+![Followers](https://img.shields.io/github/followers/pxdxx?style=for-the-badge&color=58A6FF&labelColor=1e2327)
+![Stars](https://img.shields.io/github/stars/pxdxx?style=for-the-badge&color=58A6FF&labelColor=1e2327)
+![Top language](https://img.shields.io/github/languages/top/pxdxx/pxdxx?style=for-the-badge&color=58A6FF&labelColor=1e2327)
 
 </div>
 
