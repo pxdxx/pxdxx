@@ -56,30 +56,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pxdxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxdxx&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="./generated/overview.svg" width="48%" />
+<img src="./generated/languages.svg" width="48%" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=pxdxx&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-## Трофеи
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pxdxx&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
-
-</div>
-
-<br/>
-
-## Активность
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxdxx&theme=tokyo-night&hide_border=true" />
 
 </div>
 
