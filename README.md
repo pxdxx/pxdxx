@@ -62,8 +62,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=pxdxx&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
