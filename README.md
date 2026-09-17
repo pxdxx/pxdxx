@@ -60,8 +60,6 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=pxdxx&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br/>
