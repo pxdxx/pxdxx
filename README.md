@@ -23,31 +23,6 @@
 
 <br/>
 
-## Чем занимаюсь
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Разработка**
-- Разработка ПО и утилит
-- Расширения для Chrome
-- Приложения на Electron
-
-</td>
-<td width="50%" valign="top">
-
-**Стек в деле**
-- Python - скрипты и автоматизация
-- PostgreSQL - работа с данными
-- Swift - нативные штуки под macOS
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## GitHub статистика
 
 <div align="center">
