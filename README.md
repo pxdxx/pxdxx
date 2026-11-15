@@ -4,10 +4,6 @@
 
 # Yoo, I pxdx
 
-</> Разработка </>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Browser+Extensions+%26+Electron;HTML+%2F+CSS+%2F+JS+%2F+Swift+%2F+Python;Always+shipping+something;&font=Fira%20Code&center=true&width=480&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
-
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pxdxz)
